@@ -12,7 +12,7 @@ Syntax highlighted code block
 # Hello World!
 This is my new repository
 ## Header 2
-### Header 3
+### How to push changes to my computer made on github
 
 **Bold** and _Italic_ and `Code` text
 
